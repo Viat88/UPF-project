@@ -1,2 +1,2 @@
 # UPF-project
-Porject done during seminars at UPF
+Project done during seminars at UPF
